@@ -10,3 +10,4 @@ services:
     envVars:
       - key: MONGO_URI
       - key: SECRET_KEY
+    timeout: 900
