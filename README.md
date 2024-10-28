@@ -104,6 +104,8 @@ python app.py
 
 You can now visit the app on **localhost:3000**
 
+Use the images in **Test** directory inside **dataset** directory for testing the app.
+
 ## Authors
 
 - [@supratimbanik](https://github.com/supratimbanik)
