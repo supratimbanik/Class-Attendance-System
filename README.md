@@ -109,6 +109,7 @@ Use the images in **Test** directory inside **dataset** directory for testing th
 ## Authors
 
 - [@supratimbanik](https://github.com/supratimbanik)
+- [@souravkumar](https://github.com/souravkumar02)
 
 ## Tech Stack
 
